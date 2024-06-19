@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\platziwebsite\\PlatziWebsite.csproj": {}
+    "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\SitioWebPlatzi\\PlatziWebsite.csproj": {}
   },
   "projects": {
-    "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\platziwebsite\\PlatziWebsite.csproj": {
+    "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\SitioWebPlatzi\\PlatziWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\platziwebsite\\PlatziWebsite.csproj",
+        "projectUniqueName": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\SitioWebPlatzi\\PlatziWebsite.csproj",
         "projectName": "PlatziWebsite",
-        "projectPath": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\platziwebsite\\PlatziWebsite.csproj",
+        "projectPath": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\SitioWebPlatzi\\PlatziWebsite.csproj",
         "packagesPath": "C:\\Users\\lojeda\\.nuget\\packages\\",
-        "outputPath": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\platziwebsite\\obj\\",
+        "outputPath": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\SitioWebPlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lojeda\\AppData\\Roaming\\NuGet\\NuGet.Config",

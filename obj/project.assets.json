@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectUniqueName": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\SitioWebPlatzi\\PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectPath": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\SitioWebPlatzi\\PlatziWebsite.csproj",
       "packagesPath": "C:\\Users\\lojeda\\.nuget\\packages\\",
-      "outputPath": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\PlatziWebsite\\obj\\",
+      "outputPath": "D:\\Entrenamiento\\MicrosoftAzure\\Platzi\\WebApps\\SitioWebPlatzi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lojeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
